@@ -1,7 +1,7 @@
 Android [SMS] Gateway for tekstaa.fi
 ==================================
 
-### Description and Purpose
+### The Purpose, Meaning and Place in the World
 
 Sending SMS messages:
 
