@@ -1,6 +1,5 @@
 TODO
 ====
 
-* Rebranding for tekstaa.fi
-* New backend REST API
+* Convert to use tekstaa.fi REST backend
 * QR code pairing instead of login
