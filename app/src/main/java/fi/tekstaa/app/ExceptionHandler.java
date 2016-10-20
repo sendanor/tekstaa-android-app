@@ -1,4 +1,4 @@
-package fi.feriko.sms;
+package fi.tekstaa.app;
 
 import android.util.Log;
 

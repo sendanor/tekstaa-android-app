@@ -5,7 +5,7 @@ android {
     buildToolsVersion "22.0.1"
 
     defaultConfig {
-        applicationId "fi.feriko.sms"
+        applicationId "fi.tekstaa.app"
         minSdkVersion 15
         targetSdkVersion 22
         versionCode 12

@@ -1,4 +1,4 @@
-package fi.feriko.sms;
+package fi.tekstaa.app;
 
 /**
  * Created by tero on 12/10/15.

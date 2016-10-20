@@ -1,4 +1,4 @@
-package fi.feriko.sms;
+package fi.tekstaa.app;
 
 import android.app.Activity;
 import android.content.Context;

@@ -1,4 +1,4 @@
-package fi.feriko.sms;
+package fi.tekstaa.app;
 
 import android.net.Uri;
 import android.os.Environment;
@@ -64,11 +64,11 @@ public class BackendThread extends Thread {
     public static final int USAGELOGSOK=17;
     public static final int USAGELOGSFAILED=18;
 
-    private static final String baseDomain = "sms.feriko.fi";
+    private static final String baseDomain = "api.tekstaa.fi";
     private static final String baseURL = "https://" + baseDomain + "/";
 
     private CookieManager cookieManager = new CookieManager();
- //   private static final String baseDomain = "www.feriko.fi";
+ //   private static final String baseDomain = "www.tekstaa.fi";
  //   private static final String baseURL = "https://" + baseDomain + "/dev/sms/";
 
 
